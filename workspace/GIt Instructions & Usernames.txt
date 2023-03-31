@@ -1,0 +1,9 @@
+$ git status (shows what branch you are on & what files need to be staged)
+$ git add <file or folder/> (adds documents or folders to the staging area)
+$ git commit -m "<comments>" (-m is required to push the commit)
+$ git push origin <current_branch> (pushes the commit to the remote counterpart of that branch in the remote repository (origin))
+$
+Superuser:
+	Username: Admin
+	Email: admin@littlelemon.com
+	Password: Password123!
