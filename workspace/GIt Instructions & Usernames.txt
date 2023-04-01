@@ -7,3 +7,10 @@ Superuser:
 	Username: Admin
 	Email: admin@littlelemon.com
 	Password: Password123!
+	Token: 61f433b913b195f884ec5bd3c6b1b3cef2f52024
+
+Users:
+	Username: User1
+	Email: User1@littlelemon.com
+	Password: Password123!
+	Token: ce78c8648fc6aa85e734f2d98492df08904efb0a
